@@ -15,39 +15,37 @@ html {
     border: black solid 0.1rem;
     position: fixed;
     display: flex;
-    padding-top: 10%;
-    padding-left: 5%;
-    padding-right: 5%;
+    top: 0;
+    left: 0;
+    justify-content: space-around;
+    align-items: center;
     background-color: black;
 }
 
-.logo img {
-    width: 45%;
-}
-
-.div-nav {
-    margin-top: 0%;
-    width: 500%;
+.logo {
     height: 40%;
+    margin-left: -7%;
 }
 
 .nav {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
-    margin-top: 8%;
-    width: auto;
-}
-
-.nav li {
+    justify-content: center;
     list-style: none;
-    margin-right: 5%;
-    width: 200%;
-    font-size: 0.8rem;
+    align-items:center;
+    margin-left: -7%;
 }
 
 .nav li:hover{
     color: yellowgreen;
+}
+
+.nav-items {
+    margin: 5%;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    font-size: 110%;
 }
 
 .container {
