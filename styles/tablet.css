@@ -1,0 +1,157 @@
+.container {
+    height: 100%;
+}
+
+.item {
+    border-radius: 0.2rem;
+    border: #FFD700 0.2rem solid;
+    margin-bottom: 5%;
+    background-color: #0a0a0a;
+    padding: 2%;
+    display: flex;
+    color: white;
+}
+
+.gta {
+    width: 60%;
+    height: 20%;
+    margin-top: 25%;
+    margin-left: 10%;
+}
+
+.gta img {
+    width: 40%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta p {
+    padding: 2.5%;
+    text-align: justify;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta2 {
+    width: 60%;
+    height: 15%;
+    margin-right: 10%;
+}
+
+.gta2 img {
+    width: 40%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta2 p {
+    padding: 2.5%;
+    text-align: justify;
+    font-size: 1.1rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta3 {
+    width: 60%;
+    height: 15%;
+    margin-left: 10%;
+}
+
+.gta3 img {
+    width: 40%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta3 p {
+    padding: 2.5%;
+    text-align: justify;
+    font-size: 1.1rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gtaVC {
+    width: 60%;
+    height: 15%;
+    margin-right: 10%;
+}
+
+.gtaVC img {
+    width: 45%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gtaVC p {
+    padding: 2.5%;
+    text-align: justify;
+    font-size: 1.1rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gtaSA {
+    width: 60%;
+    height: 15%;
+    margin-left: 10%;
+}
+
+.gtaSA img {
+    width: 40%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gtaSA p {
+    padding: 2.5%;
+    text-align: justify;
+    font-size: 1.2rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta4 {
+    width: 60%;
+    height: 15%;
+    margin-right: 10%;
+}
+
+.gta4 img {
+    width: 35%;
+    height: 85%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta4 p {
+    padding: 2.5%;
+    text-align: justify;
+}
+
+.gta5 {
+    width: 60%;
+    height: 15%;
+    margin-left: 10%;
+}
+
+.gta5 img {
+    width: 40%;
+    height: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.gta5 p {
+    padding: 2.5%;
+    text-align: justify;
+    font-size: 1.1rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
